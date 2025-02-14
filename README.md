@@ -1,5 +1,7 @@
 # PROJECT
 
+**Disclaimer:** This project is only to be used as a reference, for example for the logic used. So adjust its use according to your own needs.
+
 ## How to
 
 - Start XAMPP
